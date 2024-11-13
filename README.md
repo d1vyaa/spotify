@@ -48,4 +48,4 @@ A clone of the popular music streaming platform Spotify, built using HTML, CSS, 
 
 ## Screenshots
 
-![Spotify Clone Screenshot](link-to-image)
+![Spotify Clone Screenshot]([(https://github.com/d1vyaa/spotify/blob/main/spotify.jpg)])
